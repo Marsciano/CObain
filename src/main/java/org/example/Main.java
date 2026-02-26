@@ -22,6 +22,8 @@ public class Main {
         System.out.println("Apa ajalah terserah");
         String keren = input.nextLine();
         System.out.println(Pesan + " " + nama + " " + keren);
+        for (int i=0; i<=3; i++) {
+            System.out.println( i );
         }
     }
 }
